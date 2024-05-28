@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 83px;
+    background: black;
+    
+}
+body{
+    margin: 0;
+    font-family:  var(--font-family, CircularSp, CircularSp-Arab, CircularSp-Hebr, CircularSp-Cyrl, CircularSp-Grek, CircularSp-Deva, var(--fallback-fonts, sans-serif)), Helvetica, Arial, sans-serif;
+}
+.header-1{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.icon-1{
+    height: 45px;
+    margin-left: 160px;
+    margin-top: 20px;
+    float: left;
+
+}
+.header-title{
+    color: #fff;
+    float: left;
+    margin-top: 26px;
+    margin-left: 5px;
+    font-size: 23px;
+    font-weight: bold;
+    float: left;
+    font-family: "Roboto", sans-serif;
+}
+.header-2{
+    width: 50%;
+    height: 100%;
+    
+    float: left;
+}
+.head-2{
+    margin-top: 30px;
+    margin-left: 145px;
+}
+th{
+    color: #fff;
+    padding-left: 15px;
+}
+.bar-button{
+    padding-left: 20px;
+    padding-right: 5px;
+    color: #d9dadc;
+}
+.Sign-button{
+    color: #d9dadc;
+}
+.login-button{
+    color: #d9dadc;
+}
+
